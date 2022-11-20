@@ -1,0 +1,15 @@
+#navbar{
+    text-align: left;
+    /* right: 0%; */
+    top: 50%;
+    position: relative;
+    /* background-color: ; */
+}
+
+#textarea {
+    position: relative;
+    left: -65%;
+    margin-bottom: 20px;
+
+    background-color: smoke-white;
+}
